@@ -53,27 +53,27 @@ button{
 }
 
 .london {
-    background-image: url(../img/london.jpg);
+    background-image: url(../lib/img/london.jpg);
 }
 
 .napa {
-    background-image: url(../img/napa.jpg);
+    background-image: url(../lib/img/napa.jpg);
 }
 
 .new-york {
-    background-image: url(../img/new-york.jpg);
+    background-image: url(../lib/img/new-york.jpg);
 }
 
 .san-francisco-2 {
-    background-image: url(../img/san-francisco-2.jpg);
+    background-image: url(../lib/img/san-francisco-2.jpg);
 }
 
 .san-francisco {
-    background-image: url(../img/san-francisco.jpg);
+    background-image: url(../lib/img/san-francisco.jpg);
 }
 
 .sonoma {
-    background-image: url(../img/sonoma.jpg);
+    background-image: url(../lib/img/sonoma.jpg);
 }
 
 
